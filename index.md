@@ -4,4 +4,13 @@ layout: default
 
 {% include 01-name.md %}
 
-# Need to replace with new name
+<br>
+
+{% include 02-image.md %}
+
+<br>
+
+{% include 03-links.md %}
+
+
+
